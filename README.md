@@ -4,11 +4,10 @@ Hi my name is Londelle. I am a Computer Science Senior at Southern New Hampshire
 - 🔭 I’m currently working on Python.
 - 🌱 I’m currently learning advance aproaches in Python.
 - 👯 I’m looking to collaborate on C++ and much more.
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with turning ideas into softwares.
 - 💬 Ask me about your ideas you want me to code. 
 - 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
 <!--
