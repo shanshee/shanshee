@@ -1,4 +1,4 @@
-# Hi, my name is Londelle.
+# Hi, my name is Londelle!
 
 ## At my core, I am a problem solver. 
 ## I specialize in software development and have honed my skills in programming and troubleshooting, ensuring robust and scalable solutions.
