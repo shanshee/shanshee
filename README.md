@@ -1,8 +1,10 @@
-Hi, my name is Londelle. I'm deeply passionate about computer science and currently pursuing my senior year at Southern New Hampshire University. Python has been my main focus lately, as I'm diving into advanced approaches to broaden my skills. Additionally, I'm eager to collaborate on projects involving C++ and other languages, and I'm always on the lookout for opportunities to turn innovative ideas into tangible software solutions. Feel free to reach out if you have any questions or if there's a project you'd like me to tackle!
+#Hi, my name is Londelle. 
 
-🔭 I’m currently working on Python.
-🌱 I’m currently learning advanced approaches in Python.
-👯 I’m looking to collaborate on C++ and much more.
-🤔 I’m looking for help with turning ideas into software.
-💬 Ask me about your ideas you want me to code.
-📫 How to reach me: https://github.com/shanshee
+##At my core, I am a problem solver. Specializing in software development, I have honed my skills in programming and troubleshooting, ensuring robust and scalable solutions. My artistic interests, particularly in photography, inspire me to add a layer of finesse to the functionalities I build, making them not only operational but also user-friendly and pleasing to interact with. I am passionate about using technology to create impactful and enduring solutions.
+
+🔭 I’m currently working on a Photography Weather Forecast App.
+🌱 I’m currently learning AI agents and machine learning.
+👯 I’m looking to collaborate on interesting projects!
+🤔 Sometimes I’m looking for help with turning ideas into software.
+💬 Ask me about your ideas you want me to collaborate on.
+📫 How to reach me: shansheehan@gmail.com
