@@ -8,8 +8,6 @@
 
 * 👯 I’m looking to collaborate on: Interesting projects that need a creative and technical touch.
 
-* 🤔 I need help with: Turning innovative ideas into functional software.
-
 * 💬 Ask me about: How we can collaborate on your next project!
 
 * 📫 How to reach me: shansheehan@gmail.com
