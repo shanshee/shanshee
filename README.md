@@ -10,4 +10,4 @@
 
 * 💬 Ask me about: How we can collaborate on your next project!
 
-* 📫 How to reach me: shansheehan@gmail.com
+* 📫 How to reach me: slondelle@yahoo.com
